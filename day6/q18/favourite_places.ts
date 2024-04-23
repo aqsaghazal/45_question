@@ -1,0 +1,10 @@
+let places: string []=['chicago','dallas','taxes','seoul','busan','tokyo','las vages','los angles'];
+console.log('original order : '+ places);
+console.log('alphabetical order : '+ [...places].sort());
+console.log('original order : '+ places);
+console.log('reverse order : '+ [...places].sort().reverse());
+console.log('original order : '+ places);
+console.log('reverse order : '+ [...places].sort().reverse());
+console.log('original order : '+ places);
+console.log('alphabetical order : '+ [...places].sort());
+console.log('reverse order : '+ [...places].sort().reverse());
